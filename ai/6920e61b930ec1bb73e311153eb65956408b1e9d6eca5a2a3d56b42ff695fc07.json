@@ -1,0 +1,33 @@
+{
+ "budget_kbps": 1105.92,
+ "bytes": 47655828,
+ "category": "water",
+ "class": "ai",
+ "dry_run": false,
+ "fps": 24,
+ "frames": 121,
+ "gen_seconds": 200.6,
+ "group": "ai-water",
+ "guidance": 5.0,
+ "height": 720,
+ "id": "ai093",
+ "licenses": {
+  "model": "Apache-2.0",
+  "outputs": "usable for training per the Wan licence; see tools/ai/README.md"
+ },
+ "model": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+ "native_size": [
+  1280,
+  704
+ ],
+ "peak_gpu_gb": 43.7,
+ "prompt": "Heavy rain falling on a still lake, ripples everywhere, static tripod shot, harsh midday sun, cinematic, highly detailed, sharp focus, natural motion.",
+ "revision": "b8fff7315c768468a5333511427288870b2e9635",
+ "seconds": 5.041666666666667,
+ "seed": 1291883636,
+ "sha256": "6920e61b930ec1bb73e311153eb65956408b1e9d6eca5a2a3d56b42ff695fc07",
+ "shift": 5.0,
+ "steps": 50,
+ "template": "wan22-ti2v-5b",
+ "width": 1280
+}

@@ -1,0 +1,33 @@
+{
+ "budget_kbps": 1105.92,
+ "bytes": 34632088,
+ "category": "urban",
+ "class": "ai",
+ "dry_run": false,
+ "fps": 24,
+ "frames": 121,
+ "gen_seconds": 197.5,
+ "group": "ai-urban",
+ "guidance": 5.0,
+ "height": 720,
+ "id": "ai026",
+ "licenses": {
+  "model": "Apache-2.0",
+  "outputs": "usable for training per the Wan licence; see tools/ai/README.md"
+ },
+ "model": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+ "native_size": [
+  1280,
+  704
+ ],
+ "peak_gpu_gb": 43.7,
+ "prompt": "Busy highway traffic at night with long light trails, slow orbit, dramatic side light, cinematic, highly detailed, sharp focus, natural motion.",
+ "revision": "b8fff7315c768468a5333511427288870b2e9635",
+ "seconds": 5.041666666666667,
+ "seed": 1064745207,
+ "sha256": "699eef7b9a187eb3b8884ba0c6ef1d5a9071842ed073b5769db8d365a31a5975",
+ "shift": 5.0,
+ "steps": 50,
+ "template": "wan22-ti2v-5b",
+ "width": 1280
+}

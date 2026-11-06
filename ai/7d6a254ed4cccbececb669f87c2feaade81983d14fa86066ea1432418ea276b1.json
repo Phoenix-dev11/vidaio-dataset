@@ -1,0 +1,33 @@
+{
+ "budget_kbps": 1105.92,
+ "bytes": 31536383,
+ "category": "animals",
+ "class": "ai",
+ "dry_run": false,
+ "fps": 24,
+ "frames": 121,
+ "gen_seconds": 200.3,
+ "group": "ai-animals",
+ "guidance": 5.0,
+ "height": 720,
+ "id": "ai085",
+ "licenses": {
+  "model": "Apache-2.0",
+  "outputs": "usable for training per the Wan licence; see tools/ai/README.md"
+ },
+ "model": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+ "native_size": [
+  1280,
+  704
+ ],
+ "peak_gpu_gb": 43.7,
+ "prompt": "A herd of wild horses galloping through dust, slow orbit, harsh midday sun, cinematic, highly detailed, sharp focus, natural motion.",
+ "revision": "b8fff7315c768468a5333511427288870b2e9635",
+ "seconds": 5.041666666666667,
+ "seed": 289572442,
+ "sha256": "7d6a254ed4cccbececb669f87c2feaade81983d14fa86066ea1432418ea276b1",
+ "shift": 5.0,
+ "steps": 50,
+ "template": "wan22-ti2v-5b",
+ "width": 1280
+}

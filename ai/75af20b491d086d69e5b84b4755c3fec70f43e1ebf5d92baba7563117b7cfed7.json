@@ -1,0 +1,33 @@
+{
+ "budget_kbps": 1105.92,
+ "bytes": 54650583,
+ "category": "weather",
+ "class": "ai",
+ "dry_run": false,
+ "fps": 24,
+ "frames": 121,
+ "gen_seconds": 145.5,
+ "group": "ai-weather",
+ "guidance": 5.0,
+ "height": 720,
+ "id": "ai004",
+ "licenses": {
+  "model": "Apache-2.0",
+  "outputs": "usable for training per the Wan licence; see tools/ai/README.md"
+ },
+ "model": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+ "native_size": [
+  1280,
+  704
+ ],
+ "peak_gpu_gb": 43.7,
+ "prompt": "Fog drifting through a pine forest at dawn, fast dolly forward, golden hour light, cinematic, highly detailed, sharp focus, natural motion.",
+ "revision": "b8fff7315c768468a5333511427288870b2e9635",
+ "seconds": 5.041666666666667,
+ "seed": 680547015,
+ "sha256": "75af20b491d086d69e5b84b4755c3fec70f43e1ebf5d92baba7563117b7cfed7",
+ "shift": 5.0,
+ "steps": 50,
+ "template": "wan22-ti2v-5b",
+ "width": 1280
+}

@@ -1,0 +1,33 @@
+{
+ "budget_kbps": 1105.92,
+ "bytes": 99108375,
+ "category": "foliage",
+ "class": "ai",
+ "dry_run": false,
+ "fps": 24,
+ "frames": 121,
+ "gen_seconds": 200.7,
+ "group": "ai-foliage",
+ "guidance": 5.0,
+ "height": 720,
+ "id": "ai073",
+ "licenses": {
+  "model": "Apache-2.0",
+  "outputs": "usable for training per the Wan licence; see tools/ai/README.md"
+ },
+ "model": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+ "native_size": [
+  1280,
+  704
+ ],
+ "peak_gpu_gb": 43.7,
+ "prompt": "Autumn maple trees shedding thousands of red leaves, aerial drone flyover, harsh midday sun, cinematic, highly detailed, sharp focus, natural motion.",
+ "revision": "b8fff7315c768468a5333511427288870b2e9635",
+ "seconds": 5.041666666666667,
+ "seed": 1521735014,
+ "sha256": "66a964ed474f9c157cb64f0b9776b3cc9295411d33b4cd044b7ab15c27ca00e1",
+ "shift": 5.0,
+ "steps": 50,
+ "template": "wan22-ti2v-5b",
+ "width": 1280
+}
